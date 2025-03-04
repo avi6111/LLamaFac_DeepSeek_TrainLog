@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+LLaMA-Factory
+Docs_peronal
+tokens-data
+tokens-output
+llama.cpp
